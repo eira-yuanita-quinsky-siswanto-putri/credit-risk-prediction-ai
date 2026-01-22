@@ -1,11 +1,11 @@
-# 📊 Sistem Prediksi Risiko Kredit
+# Sistem Prediksi Risiko Kredit
 
 Aplikasi berbasis **Artificial Intelligence (AI)** untuk memprediksi risiko gagal bayar calon peminjam kredit.  
 Sistem ini dibangun sebagai **Sistem Pendukung Keputusan** menggunakan algoritma **Random Forest** dan diimplementasikan dalam bentuk aplikasi web menggunakan **Streamlit**.
 
 ---
 
-## 🎯 Tujuan Sistem
+## Tujuan Sistem
 Membantu pihak lembaga keuangan dalam:
 - Menilai risiko kredit calon peminjam
 - Mengurangi potensi kredit macet
@@ -13,14 +13,14 @@ Membantu pihak lembaga keuangan dalam:
 
 ---
 
-## 👤 Pengguna Sistem
+## Pengguna Sistem
 - Petugas analis kredit
 - Admin koperasi / bank
 - Mahasiswa (sebagai studi kasus akademik)
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Python**
 - **Streamlit** (Web App)
 - **Pandas & NumPy** (Pengolahan Data)
@@ -29,7 +29,7 @@ Membantu pihak lembaga keuangan dalam:
 
 ---
 
-## 🧠 Model AI
+## Model AI
 - Algoritma: **Random Forest Classifier**
 - Tugas: **Klasifikasi Risiko Kredit**
 - Output:
